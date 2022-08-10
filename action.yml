@@ -1,4 +1,4 @@
-name: 'schema-validation-action'
+name: 'slash-schema-validation'
 description: 'Validate JSON, YAML, XML against a schema'
 author: 'cardinalby'
 inputs:
